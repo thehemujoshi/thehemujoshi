@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;UI%2FUX+Enthusiast;AI+%26+Startup+Builder;Crafting+Digital+Experiences" />
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=thehemujoshi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/thehemujoshi?style=for-the-badge&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/thehemujoshi?style=for-the-badge&logo=github&color=181717" />
 
 </div>
 
@@ -31,11 +31,11 @@ Mission:       Crafting digital experiences that matter
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thehemujoshi)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thehemujoshi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshujoshiii)
+[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HimalayanPutra)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/coding_breeze)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thehemujoshi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshihj2580+github@gmail.com)
 
 </div>
 
@@ -81,9 +81,9 @@ Mission:       Crafting digital experiences that matter
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thehemujoshi&show_icons=true&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=00F7FF&icon_color=00F7FF)
+<img src="https://github-readme-stats.vercel.app/api?username=thehemujoshi&show_icons=true&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=00F7FF&icon_color=00F7FF" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thehemujoshi&layout=compact&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=00F7FF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehemujoshi&layout=compact&theme=github_dark&hide_border=true&bg_color=1a1b27&title_color=00F7FF" />
 
 </div>
 
@@ -93,7 +93,7 @@ Mission:       Crafting digital experiences that matter
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=thehemujoshi&theme=github-dark-blue&hide_border=true&background=1a1b27)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=thehemujoshi&theme=github-dark-blue&hide_border=true&background=1a1b27" />
 
 </div>
 
@@ -103,7 +103,7 @@ Mission:       Crafting digital experiences that matter
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=thehemujoshi&theme=algolia&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=thehemujoshi&theme=algolia&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -113,7 +113,7 @@ Mission:       Crafting digital experiences that matter
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thehemujoshi&theme=github-compact&bg_color=1a1b27&color=00F7FF&line=8A2BE2&point=00F7FF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thehemujoshi&theme=github-compact&bg_color=1a1b27&color=00F7FF&line=8A2BE2&point=00F7FF" />
 
 </div>
 
@@ -123,11 +123,14 @@ Mission:       Crafting digital experiences that matter
 
 ### 🎯 Life Dashboard
 Your personal analytics dashboard for tracking goals and productivity.
-- **Tech Stack:** React, Next.js, Tailwind CSS, Firebase
-- **Features:** Real-time tracking, beautiful charts, goal management
-- **Repository:** [View on GitHub](https://github.com/thehemujoshi/lifedashboard)
 
-*More projects coming soon...*
+| Detail | Info |
+|--------|------|
+| 🛠 Tech Stack | React, Next.js, Tailwind CSS, Firebase |
+| ✨ Features | Real-time tracking, beautiful charts, goal management |
+| 🔗 Repository | [View on GitHub](https://github.com/thehemujoshi/lifedashboard) |
+
+> *More projects coming soon...*
 
 ---
 
@@ -143,12 +146,14 @@ Currently exploring:
 
 ## 🎯 2026 Goals
 
-- ✅ Build and launch 2+ SaaS products
-- ✅ Master advanced full-stack architecture
-- ✅ Grow developer network to 1000+ followers
-- ✅ Create impactful open-source projects
-- ✅ Share knowledge through blogs and tutorials
-- ✅ Build a strong personal brand in tech
+| Status | Goal |
+|--------|------|
+| 🔄 | Build and launch 2+ SaaS products |
+| 🔄 | Master advanced full-stack architecture |
+| 🔄 | Grow developer network to 1000+ followers |
+| 🔄 | Create impactful open-source projects |
+| 🔄 | Share knowledge through blogs and tutorials |
+| 🔄 | Build a strong personal brand in tech |
 
 ---
 
@@ -156,7 +161,7 @@ Currently exploring:
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
@@ -164,11 +169,13 @@ Currently exploring:
 
 ## 📞 Let's Connect!
 
-I'm always interested in collaborating on exciting projects, discussing tech, or just having a chat about startups and innovation. Feel free to reach out!
+I'm always open to collaborating on exciting projects, discussing tech, or just chatting about startups and innovation. Feel free to reach out through any platform!
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-Get%20in%20Touch-blue?style=for-the-badge&logo=gmail)](mailto:joshihj2580+github@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshujoshiii)
+&nbsp;
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshihj2580+github@gmail.com)
 
 </div>
 
@@ -176,9 +183,9 @@ I'm always interested in collaborating on exciting projects, discussing tech, or
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=120&section=footer" />
 
-### 🚀 Code • Create • Innovate • Impact
+### 🚀 Code &nbsp;•&nbsp; Create &nbsp;•&nbsp; Innovate &nbsp;•&nbsp; Impact
 
 **Happy Coding! 🎉**
 
