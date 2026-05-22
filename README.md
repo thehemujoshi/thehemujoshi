@@ -168,7 +168,7 @@ I'm always interested in collaborating on exciting projects, discussing tech, or
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-Get%20in%20Touch-blue?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-Get%20in%20Touch-blue?style=for-the-badge&logo=gmail)](mailto:joshihj2580+github@gmail.com)
 
 </div>
 
